@@ -1,2 +1,2 @@
-# moonbase
+# Moonbase
 Simple JS RPG builder.
